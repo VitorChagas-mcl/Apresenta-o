@@ -6,6 +6,7 @@
 <h3 align="center">Desenvolvedor de Software</h3>
 
 ---
+
 - 🎓 Estudante de **Ciência da Computação PUC Minas**
 - 🖥️ Atualmente, tenho experiência com **Linguagens C-Like , Desenvolvimento Front End e Back End**
 - 📈 Aprendendo atualmente **Algoritmos e Estrutura de Dados I1, Arquitetura de Computadores I**
@@ -29,13 +30,14 @@
 <h3 align="left">Linguagens & Ferramentas:</h3>
 <div align="center">
 
-| Languages | Web Development | Backend & APIs |
-|:---:|:---:|:---:|
-| <div align="center"><img src="https://skillicons.dev/icons?i=c,py"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=html,css,nodejs,js" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=nodejs" /></div> |
-| Databases | DevOps & Cloud | IDEs & Tools |
-| <img src="https://skillicons.dev/icons?i=postgres" alt="json" width="40" height="40"/> | <div align="center"><img src="https://skillicons.dev/icons?i=git,github,docker" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=vscode,replit" /></div> |
-| | Operating Systems | |
-| | <div align="center"><img src="https://skillicons.dev/icons?i=windows,linux" /></div>  | |
+|                                       Languages                                        |                                        Web Development                                         |                                    Backend & APIs                                    |
+| :------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
+|       <div align="center"><img src="https://skillicons.dev/icons?i=c,py"/></div>       | <div align="center"><img src="https://skillicons.dev/icons?i=html,css,nodejs,js" /><br/></div> |    <div align="center"><img src="  https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white,Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" /></div>     |
+|                                       Databases                                        |                                         DevOps & Cloud                                         |                                     IDEs & Tools                                     |
+| <img src="https://skillicons.dev/icons?i=postgres" alt="json" width="40" height="40"/> |    <div align="center"><img src="https://skillicons.dev/icons?i=git,github,docker" /></div>    | <div align="center"><img src="https://skillicons.dev/icons?i=vscode,replit" /></div> |
+|                                                                                        |                                       Operating Systems                                        |                                                                                      |
+|                                                                                        |      <div align="center"><img src="https://skillicons.dev/icons?i=windows,linux" /></div>      |                                                                                      |
+
 </div>
 
 ---
